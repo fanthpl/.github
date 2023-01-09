@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/SiusiakDevelopers/.github/main/profile/better-siusiakdevelopers-logo.png">
 
-## <p align="center">Potężni Developerzy Którzy Tworzą Potężne Projekty :D!
+## <p align="center">Potężni Developerzy Którzy Tworzą Potężne Projekty
 ### <p align="center">Brak wstępu dla niepełnosprytnych developerów
 
 &nbsp;
