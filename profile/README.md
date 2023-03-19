@@ -5,4 +5,4 @@
 
 &nbsp;
 
-[![Discord](https://img.shields.io/discord/993957852878213260?color=ff4d49&label=FanthPlay%20Discord&style=for-the-badge)](http://dc.fanthplay.pl/)
+[![Discord](https://img.shields.io/discord/993957852878213260?color=ff4d49&label=FanthPlay%20Discord&style=for-the-badge)](https://dc.fanthplay.pl/)
